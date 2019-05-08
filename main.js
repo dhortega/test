@@ -12,4 +12,6 @@ function update() {
 	// run game loop
 }
 
+
 var NDA = 10;
+
