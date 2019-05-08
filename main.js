@@ -13,3 +13,4 @@ function update() {
 }
 
 var NDA = 0;
+var XYZ = 0;
